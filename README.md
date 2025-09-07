@@ -1,5 +1,7 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Daniel%20Quintero%20(danielQ11)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
 </div>
 
 ## Hi there 👋
