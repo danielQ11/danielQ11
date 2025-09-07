@@ -10,17 +10,17 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="tu-correo-aqui">tu-correo-aqui</a>
 
-__Check out my GitHub repository:__
+
+I’m Daniel Quintero, a **frontend developer in training** who enjoys creating dynamic and responsive web interfaces.  
+I’m focused on learning and improving my skills with **HTML, CSS, JavaScript, React, TypeScript, and TailwindCSS** to build clean, modern, and user-friendly applications.  
+
+- 🎨 Passionate about crafting **attractive and functional UI/UX**.  
+- ⚡ Interested in modern frameworks and best practices in frontend development.  
+- 📈 Currently sharpening my skills in **React + TypeScript**.  
+- 🤝 Open to collaborating on projects where I can learn and contribute to real solutions.  
+- 📫 Reach me at: <a href="dq1502584gmail.com">dq1502584@gmail.com</a>
+
 
 
 ## <strong>💡 My Languages :</strong>
