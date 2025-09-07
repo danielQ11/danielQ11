@@ -6,13 +6,22 @@
 
 ## Hi there 👋
 
-### 📊 Most Used Language
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=danielQ11&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
-</div>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web designing, Android development, and digital marketing**
+- 🌱 I’m currently learning ...
+  - Java
+  - React js
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+
+__Check out my GitHub repository:__
+
 
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
 
@@ -27,6 +36,10 @@
     </a>
 </div>
 <!--- trophy (end) -->
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
+
+![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+
 <!-- FOOTER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
