@@ -23,6 +23,16 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 __Check out my GitHub repository:__
 
 
+
+## <strong>💡 My Languages :</strong><br><br>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielQ11&langs_count_private=true&theme=radical&card_width=445)<br><br>
+
+</div>
+
+
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark" /> </p>
@@ -35,10 +45,7 @@ __Check out my GitHub repository:__
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=danielQ11&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (end) -->
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 <!-- FOOTER -->
 <div align="center" width="100">
