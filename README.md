@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="130"/>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08C4D0&center=true&vCenter=true&width=500&lines=Hi+there+🎨;I'm+Daniel+Quintero;Frontend+Developer;React+%7C+TypeScript+%7C+TailwindCSS" alt="Typing SVG" />
 </div>
@@ -14,7 +14,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="90px">&nbsp;***About me***
 
 
 
