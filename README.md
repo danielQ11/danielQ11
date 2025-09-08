@@ -4,10 +4,10 @@
   alt="header"/>
 </div>
 
-## <div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08C4D0&center=true&vCenter=true&width=435&lines=Hi+there+;I'm+Daniel+Quintero;Frontend+Developer;React+%7C+TypeScript+%7C+TailwindCSS" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08C4D0&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Daniel+Quintero;Frontend+Developer;React+%7C+TypeScript+%7C+TailwindCSS" alt="Typing SVG" />
 </div>
 
 
